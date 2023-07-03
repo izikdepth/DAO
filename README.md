@@ -22,8 +22,8 @@ COMMAND
 "forge fmt"
 
 
-forge install
-forge init
-forge build 
+``forge install``
+``forge init``
+``forge build`` 
 
 # DAO
